@@ -1,0 +1,36 @@
+/* course_management/src/styles/dashboard.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dashboard-container {
+  max-width: 7xl;
+  margin: 0 auto;
+  padding: 4rem;
+}
+
+.dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.dashboard-metrics {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.dashboard-recent-courses {
+  margin-bottom: 2rem;
+}
+
+.dashboard-quick-actions {
+  margin-bottom: 2rem;
+}
+
+.dashboard-charts {
+  margin-bottom: 2rem;
+}
