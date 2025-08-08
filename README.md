@@ -74,5 +74,7 @@ MIT.
 
 ## Contact / Support
 - Maintainer: Premanand <premanand484@gmail.com>
-- ![Demo GIF](https://www.awesomescreenshot.com/video/42929519?key=9b8ad2f466337d03643e24660c07d0e3)
+-## 📽 Demo Video
+[Watch the Demo Video](https://www.awesomescreenshot.com/video/42929519?key=9b8ad2f466337d03643e24660c07d0e3)
+
 
